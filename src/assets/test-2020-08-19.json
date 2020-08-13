@@ -1,0 +1,2693 @@
+{
+  "list": {
+    "g1": [
+      {
+        "id": "2020081907796",
+        "event_id": "07796",
+        "start_time": "2020-08-19T04:07:00+09:00",
+        "end_time": "2020-08-19T04:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まんぷく農家メシ「濃厚カラフル卵＆自由が丘のはちみつ　東京・世田谷区」",
+        "subtitle": "梅沢富美男と東野幸治が全国に飛び出し、オイシイ農家のごはんを食べつくす！笑いに溢れたグルメバラエティー！今回は東京都世田谷区のご当地メシ！カラフルたまご登場！",
+        "content": "梅沢富美男と東野幸治が全国に飛び出し、オイシイ農家のごはんを食べつくす！笑いに溢れたグルメバラエティー！今回は東京都世田谷区の「ご当地メシ」を紹介。「カラフル卵の濃厚卵かけごはん」「えっ自由が丘で！？バラが香る屋上はちみつ」など、大都会東京の知る人ぞ知る食材が登場。梅沢と東野が東京世田谷のおいしいものを食べつくす。",
+        "act": "【リポーター】梅沢富美男，東野幸治，【語り】乙葉",
+        "genres": [
+          "0505",
+          "0205",
+          "0802"
+        ]
+      },
+      {
+        "id": "2020081907797",
+        "event_id": "07797",
+        "start_time": "2020-08-19T04:30:00+09:00",
+        "end_time": "2020-08-19T06:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫニュース　おはよう日本",
+        "subtitle": "朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。　",
+        "content": "お出かけ前の今、知りたい！朝いちばんの最新情報が満載！けさの関心事やとれたてのニュースをわかりやすく生き生きとお伝えします！今日１日の天気は？各地の天気を３時間ごとにお見せするきめ細かい気象情報・夜明け時の各地の様子・おさえておきたいニュースをコンパクトに・スポーツ・世界各地の驚きのニュース・くらしのヒントが満載！まちかど情報室",
+        "act": "【４時台５時台キャスター】江原啓一郎，【５時台キャスター】森下絵理香，【気象】檜山靖洋，山神明理",
+        "genres": [
+          "0000",
+          "0002",
+          "0100"
+        ]
+      },
+      {
+        "id": "2020081907806",
+        "event_id": "07806",
+        "start_time": "2020-08-19T06:00:00+09:00",
+        "end_time": "2020-08-19T07:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫニュース　おはよう日本",
+        "subtitle": "【６時台】経済ニュースをまとめて伝える「おはＢｉｚ」、イラストを使った解説、世界の驚きニュース、スポーツ、きょうの空は　気象情報詳しく　ほか",
+        "content": "お出かけ前の今、知りたい！朝いちばんの最新情報が満載！けさの関心事やとれたてのニュースをわかりやすく生き生きとお伝えします！お出かけ＆お帰りの天気を１時間ごとに表示・１日の天気を３時間ごとにお見せするきめ細かい気象情報！注目のスポーツたっぷりと！ビジネスパーソンが出勤前にサクッとチェックできる経済情報・おさえておきたいニュースをコンパクトに！世界の驚きニュース・知りたい情報が一目でわかります！",
+        "act": "【キャスター】岩野吉樹，桑子真帆，塩田慎二，【気象】檜山靖洋，山神明理，【スポーツ】豊原謙二郎，【おはＢｉｚ】関口博之",
+        "genres": [
+          "0000",
+          "0002",
+          "0100"
+        ]
+      },
+      {
+        "id": "2020081907811",
+        "event_id": "07811",
+        "start_time": "2020-08-19T07:00:00+09:00",
+        "end_time": "2020-08-19T07:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫニュース　おはよう日本",
+        "subtitle": "【７時台】届いたばかりのニュースを分かりやすくお届け。社会の深層に迫る特集。便利なアイディアを紹介する「まちかど情報室」。スポーツ、気象情報　など",
+        "content": "お出かけ前の今、知りたい！朝いちばんの最新情報が満載！けさの関心事やとれたてのニュースをわかりやすく生き生きとお伝えします！おでかけ＆お帰りの天気は？１日の天気を３時間ごとにお見せするきめ細かい気象情報！出勤前にチェックしたい最新ニュースを一覧・おさえておきたいポイントをズバリ！注目のスポーツを多角的にたっぷりと！くらしのヒントが満載・まちかど情報室！知りたい情報が一目でわかります！",
+        "act": "【キャスター】岩野吉樹，桑子真帆，塩田慎二，【気象】檜山靖洋，山神明理，【スポーツ】豊原謙二郎",
+        "genres": [
+          "0000",
+          "0002",
+          "0100"
+        ]
+      },
+      {
+        "id": "2020081907812",
+        "event_id": "07812",
+        "start_time": "2020-08-19T07:45:00+09:00",
+        "end_time": "2020-08-19T08:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫニュース　おはよう日本（関東甲信越）",
+        "subtitle": "関東甲信越のニュースと交通・気象情報▽各地のいまを見つめる特集も",
+        "content": "関東甲信越のニュースと交通・気象情報▽各地のいまを見つめる特集も",
+        "act": "【キャスター】岩野吉樹，桑子真帆，【気象キャスター】檜山靖洋",
+        "genres": [
+          "0000",
+          "0009",
+          "0010"
+        ]
+      },
+      {
+        "id": "2020081907814",
+        "event_id": "07814",
+        "start_time": "2020-08-19T08:00:00+09:00",
+        "end_time": "2020-08-19T08:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】エール（４５）「東京恋物語」",
+        "subtitle": "解説は梅（森七菜）。ようやく裕一（窪田正孝）の初のレコード「福島行進曲」が発売される。音（二階堂ふみ）は希穂子（入山法子）と鉄男（中村蒼）をつなぐが…",
+        "content": "裕一から誘われて鉄男（中村蒼）が書いた詞に、裕一（窪田正孝）がメロディーをつけた「福島行進曲」がレコードになり、ようやく裕一はプロの作曲家デビューを果たす。バンブーでレコード発売のお祝いパーティーを開くことになり、音（二階堂ふみ）はカフェーをおとずれて、希穂子（入山法子）に鉄男（中村蒼）をお祝いしに来て欲しいとお願いする。ところが、希穂子はある約束で、鉄男とは会うことができないと話す",
+        "act": "【出演】窪田正孝，二階堂ふみ，柴咲コウ，中村蒼，仲里依紗，野間口徹，入山法子，山崎育三郎，小南満佑子，高田聖子，斉木しげる，黒沢あすか，清水葉月，金澤美穂，【語り】津田健次郎，【脚本】清水友佳子，【音楽】瀬川英史",
+        "genres": [
+          "0300"
+        ]
+      },
+      {
+        "id": "2020081907815",
+        "event_id": "07815",
+        "start_time": "2020-08-19T08:15:00+09:00",
+        "end_time": "2020-08-19T09:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "あさイチ「あなたの最強の味方　“集中力”ＳＰ」",
+        "subtitle": "あなたの最強の味方　“集中力”ＳＰ▽おでかけＬＩＶＥ「奥深い金魚の世界」▽みんな！ゴハンだよ「豚しゃぶで！しょうが焼き風＆豚汁もどき」【ゲスト】青木さやか",
+        "content": "あなたの最強の味方　“集中力”ＳＰ▽おでかけＬＩＶＥ「奥深い金魚の世界」▽みんな！ゴハンだよ「豚しゃぶで！しょうが焼き風＆豚汁もどき」【ゲスト】青木さやか【キャスター】博多華丸・大吉、近江友里恵",
+        "act": "【ゲスト】青木さやか，【講師】料理研究家…本田明子，【キャスター】博多華丸，博多大吉，近江友里恵，【リポーター】駒村多恵，藤原薫，小林孝司",
+        "genres": [
+          "0202",
+          "0203",
+          "0800"
+        ]
+      },
+      {
+        "id": "2020081907820",
+        "event_id": "07820",
+        "start_time": "2020-08-19T09:55:00+09:00",
+        "end_time": "2020-08-19T10:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなの体操",
+        "subtitle": "【出演】鈴木大輔，吉江晴菜，矢作あかり",
+        "content": "",
+        "act": "【出演】鈴木大輔，吉江晴菜，矢作あかり",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2020081907821",
+        "event_id": "07821",
+        "start_time": "2020-08-19T10:00:00+09:00",
+        "end_time": "2020-08-19T10:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2020081907822",
+        "event_id": "07822",
+        "start_time": "2020-08-19T10:05:00+09:00",
+        "end_time": "2020-08-19T10:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "くらし☆解説　【出演】岩渕梢キャスター　ＮＨＫ解説委員",
+        "subtitle": "▽日々のくらしが“きらり”と輝く、役に立つ情報満載　▽食、健康、医療・介護、防災、老後、教育、文化など、くらしに密着するテーマを分かりやすく解説。",
+        "content": "",
+        "act": "【司会】岩渕梢",
+        "genres": [
+          "0006",
+          "0202",
+          "0203"
+        ]
+      },
+      {
+        "id": "2020081907823",
+        "event_id": "07823",
+        "start_time": "2020-08-19T10:15:00+09:00",
+        "end_time": "2020-08-19T10:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "趣味どきっ！　人と暮らしと、台所「建築家・中村好文～遊び心を忘れない～」",
+        "subtitle": "毎日の暮らしに欠かせない台所。人の胃袋と心を満たす食べもの、それを作るための大切な場所。達人たちの知恵と工夫を美しい映像と言葉で紡ぐ。あなたにとって台所とは？",
+        "content": "個人の住宅設計で定評のある建築家、中村好文さんの事務所では、長年「自炊ランチ」の習慣がある。お昼、中村さんも参加して買い物から調理、後片付けまでスタッフが分担してランチを手作り。費用は一人３００円前後。こうした生活感覚が住宅設計には大切だと中村さんは語る。そのコンパクトなキッチンには、お皿の引き出し式収納やまな板の独特な使い方など機能性と遊び心が満載。中村好文さん直伝、台所作りのヒント、必見です！",
+        "act": "【出演】建築家…中村好文，中村夏実，【語り】麻生久美子",
+        "genres": [
+          "1000",
+          "0202",
+          "0205"
+        ]
+      },
+      {
+        "id": "2020081907826",
+        "event_id": "07826",
+        "start_time": "2020-08-19T10:40:00+09:00",
+        "end_time": "2020-08-19T10:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "きょうの料理ビギナーズ「夏バテ対策に！豚のしょうが焼き」",
+        "subtitle": "暑い夏に食べたくなるさっぱりとした和食を紹介するシリーズ。１日目は「豚のしょうが焼き」と「鶏ささみの梅しそはさみ焼き」を作る。",
+        "content": "「豚のしょうが焼き」はしょうがの香りでご飯がすすむ定番レシピ。完全に火が通る前にたれを加えるのが柔らかく仕上げるポイント。「鶏ささみの梅しそはさみ焼き」ではささ身はかたくり粉をまぶし多めの油で焼くとパサパサしにくく厚い部分にもよく火が通る。",
+        "act": "【声】佐久間レイ",
+        "genres": [
+          "0205",
+          "1015"
+        ]
+      },
+      {
+        "id": "2020081907827",
+        "event_id": "07827",
+        "start_time": "2020-08-19T10:45:00+09:00",
+        "end_time": "2020-08-19T10:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081907828",
+        "event_id": "07828",
+        "start_time": "2020-08-19T10:50:00+09:00",
+        "end_time": "2020-08-19T10:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "あの日　わたしは　証言記録　九州北部豪雨「福岡県朝倉市　須磨航さん」",
+        "subtitle": "被災地を巡るバスツアーを企画している大学生▽参加者に災害を自分の問題として考えて欲しいと願う▽被災地の現実を見た参加者に意識の変化が▽備えることの大切さとは？",
+        "content": "被災地を巡るバスツアーを企画している大学生▽参加者に災害を自分の問題として考えて欲しいと願う▽被災地の現実を見た参加者に芽生えた意識の変化とは？▽災害に備えることの大切さとは？",
+        "act": "【出演】須磨航，【語り】野村正育",
+        "genres": [
+          "0800",
+          "0002",
+          "0202"
+        ]
+      },
+      {
+        "id": "2020081907829",
+        "event_id": "07829",
+        "start_time": "2020-08-19T10:55:00+09:00",
+        "end_time": "2020-08-19T11:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「スタートライン」「キミと歯のうた」",
+        "subtitle": "「スタートライン」うた：ナオト・インティライミ／「キミと歯のうた」うた：平山カンタロウ",
+        "content": "「スタートライン」うた：ナオト・インティライミ／「キミと歯のうた」うた：平山カンタロウ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0700",
+          "0504"
+        ]
+      },
+      {
+        "id": "2020081907830",
+        "event_id": "07830",
+        "start_time": "2020-08-19T11:00:00+09:00",
+        "end_time": "2020-08-19T11:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2020081907831",
+        "event_id": "07831",
+        "start_time": "2020-08-19T11:05:00+09:00",
+        "end_time": "2020-08-19T11:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "世界ふれあい街歩き　ちょっとお散歩「魔法の街　トリノ～イタリア～」",
+        "subtitle": "１６世紀、サヴォア家のもとで宮廷文化が花咲き、後にイタリア王国の最初の首都となった街で、「魔法の街」との異名をもつ。（初回放送：２０１５年８月２５日）",
+        "content": "１６世紀、サヴォア家のもとで宮廷文化が花咲き、後にイタリア王国の最初の首都となった街。世界遺産の王宮など歴史的な建物が建ち並ぶが、なぜか「魔法の街」とも呼ばれている。その謎を楽しみながら、街を歩く。",
+        "act": "【語り】池田伸子",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2020081907832",
+        "event_id": "07832",
+        "start_time": "2020-08-19T11:20:00+09:00",
+        "end_time": "2020-08-19T11:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニッポンの里山　ふるさとの絶景に出会う旅▽海と棚田つながる命の小宇宙　佐賀唐津市",
+        "subtitle": "珍しい天然のマガキがとれる浜の背後に広がる山と棚田と海がなだらかにつながる水の大絶景。山の湧き水が棚田で様々な命も育み、海に豊富なミネラルを運んでカキが育つのだ",
+        "content": "日本でも珍しい海と棚田がつながる大棚田。鎌倉から江戸の時代に築かれた。人々は、半農半漁の暮らしをしながらこの絶景を守ってきた。この棚田は水源が裏手の森の湧き水。害虫が多く出る８月半ばには収穫を終える早生のイネを栽培しているため農薬も使わない。一帯は佐賀牛の産地のためワラを食べた牛の堆肥を田んぼの肥料にする。お陰で棚田は水清く、澄んだ水にしか住めない絶滅危惧種のカスミサンショウウオも見られる。",
+        "act": "",
+        "genres": [
+          "0802",
+          "0804",
+          "0801"
+        ]
+      },
+      {
+        "id": "2020081907833",
+        "event_id": "07833",
+        "start_time": "2020-08-19T11:30:00+09:00",
+        "end_time": "2020-08-19T11:35:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】岡本美佳，清水沙希，舘野伶奈，矢作あかり，【ピアノ】幅しげみ",
+        "content": "",
+        "act": "【出演】岡本美佳，清水沙希，舘野伶奈，矢作あかり，【ピアノ】幅しげみ",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2020081907834",
+        "event_id": "07834",
+        "start_time": "2020-08-19T11:35:00+09:00",
+        "end_time": "2020-08-19T11:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081907835",
+        "event_id": "07835",
+        "start_time": "2020-08-19T11:40:00+09:00",
+        "end_time": "2020-08-19T11:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲アルバム「無伴奏チェロ組曲　第１番」バッハ作曲",
+        "subtitle": "ケーテンはバッハが愛した小さな町。チェロの可能性を広げた画期的な「無伴奏チェロ組曲」は音楽好きの君主との出会いから誕生、時を越えて町の人々から深く愛されている。",
+        "content": "チェロ　横坂源　ロケ地：ケーテン（ドイツ）",
+        "act": "【チェロ】横坂源",
+        "genres": [
+          "0402",
+          "1002",
+          "0801"
+        ]
+      },
+      {
+        "id": "2020081910420",
+        "event_id": "10420",
+        "start_time": "2020-08-19T11:45:00+09:00",
+        "end_time": "2020-08-19T11:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "もういちど、日本「すき焼きのわき役　ねぎ」",
+        "subtitle": "鍋の御馳走、すき焼き。明治時代すき焼きの原型と言われる「牛鍋」は文明開化の象徴だった。当時の具材は牛肉とねぎのみ。わき役の長ネギだけを専門に扱う「葱商」に密着。",
+        "content": "鍋の御馳走、すき焼き。明治時代、すき焼きの原型と言われる「牛鍋」は文明開化の象徴だった。当時の具材は牛肉とねぎのみ。わき役の長ネギだけを今も専門に扱う「葱商」に密着。",
+        "act": "【語り】松たか子",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2020081907837",
+        "event_id": "07837",
+        "start_time": "2020-08-19T11:50:00+09:00",
+        "end_time": "2020-08-19T11:52:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081913083",
+        "event_id": "13083",
+        "start_time": "2020-08-19T11:52:00+09:00",
+        "end_time": "2020-08-19T11:54:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "＃もしかして…　虐待防止アニメ（１）「大人にたたかれた」",
+        "subtitle": "暴力を振るう、ひどい言葉でののしる、世話をしない、性的な行為をする…。それらは大人が子どもにしてはいけないことだと子どもたちに伝えるアニメーションシリーズ。",
+        "content": "子どもたちに「虐待」について伝える啓発アニメーションシリーズ。今回のテーマは「暴力」。大人に殴られたり蹴られたり、ひどい言葉でののしられたり、家に入れてもらえなかったりして傷つく子どもたち。涙の化身である“なみだ君”は、「我慢するからだいじょうぶ…」と語る子に、ほんとうの気持ちを教えてほしいと優しく問いかける。また、つらくなったら、友達や先生に相談したり、交番に駆け込んで助けを求めるよう伝える。",
+        "act": "【語り】曽我部恵一，【声】新井美羽，横山歩",
+        "genres": [
+          "1008",
+          "0700"
+        ]
+      },
+      {
+        "id": "2020081907838",
+        "event_id": "07838",
+        "start_time": "2020-08-19T11:54:00+09:00",
+        "end_time": "2020-08-19T12:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0001"
+        ]
+      },
+      {
+        "id": "2020081907840",
+        "event_id": "07840",
+        "start_time": "2020-08-19T12:00:00+09:00",
+        "end_time": "2020-08-19T12:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "【キャスター】佐藤誠太",
+        "content": "",
+        "act": "【キャスター】佐藤誠太",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2020081907841",
+        "event_id": "07841",
+        "start_time": "2020-08-19T12:15:00+09:00",
+        "end_time": "2020-08-19T12:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース（関東）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2020081907842",
+        "event_id": "07842",
+        "start_time": "2020-08-19T12:20:00+09:00",
+        "end_time": "2020-08-19T12:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まんぷく農家メシ選「農家の子どもたちに、梅沢はデレデレ！東野は大爆笑！」",
+        "subtitle": "梅沢富美男と東野幸治が全国のオイシイ農家のご飯を食べつくす笑いに溢れたグルメバラエティー！今回は特別編「ワンパク！かわいい！しっかり者！農家の子ども大集合！」",
+        "content": "梅沢富美男と東野幸治が全国のオイシイ農家のご飯を食べつくす笑いに溢れたグルメバラエティー！今回は特別編「ワンパク！かわいい！しっかり者！農家の子ども大集合！」と題して、これまで放送した中から梅沢＆東野が印象に残った子どもたちを追跡取材！思いもよらない子どもたの成長ぶりにびっくり！癒やしと爆笑の満載でお届けする。そして子ども大好きの梅沢デレデレ集放送！さらに兼業農家芸人も登場！農作物で一発芸も！",
+        "act": "【リポーター】梅沢富美男，東野幸治，【語り】乙葉",
+        "genres": [
+          "0505",
+          "0205",
+          "0802"
+        ]
+      },
+      {
+        "id": "2020081907847",
+        "event_id": "07847",
+        "start_time": "2020-08-19T12:45:00+09:00",
+        "end_time": "2020-08-19T13:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】エール（４５）「東京恋物語」",
+        "subtitle": "解説は梅（森七菜）。ようやく裕一（窪田正孝）の初のレコード「福島行進曲」が発売される。音（二階堂ふみ）は希穂子（入山法子）と鉄男（中村蒼）をつなぐが…",
+        "content": "裕一から誘われて鉄男（中村蒼）が書いた詞に、裕一（窪田正孝）がメロディーをつけた「福島行進曲」がレコードになり、ようやく裕一はプロの作曲家デビューを果たす。バンブーでレコード発売のお祝いパーティーを開くことになり、音（二階堂ふみ）はカフェーをおとずれて、希穂子（入山法子）に鉄男（中村蒼）をお祝いしに来て欲しいとお願いする。ところが、希穂子はある約束で、鉄男とは会うことができないと話す",
+        "act": "【出演】窪田正孝，二階堂ふみ，柴咲コウ，中村蒼，仲里依紗，野間口徹，入山法子，山崎育三郎，小南満佑子，高田聖子，斉木しげる，黒沢あすか，清水葉月，金澤美穂，【語り】津田健次郎，【脚本】清水友佳子，【音楽】瀬川英史",
+        "genres": [
+          "0300"
+        ]
+      },
+      {
+        "id": "2020081907848",
+        "event_id": "07848",
+        "start_time": "2020-08-19T13:00:00+09:00",
+        "end_time": "2020-08-19T14:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ごごナマ「三田佳子」",
+        "subtitle": "女優・三田佳子がゲスト▽すっぴん公開もいとわない赤裸々ブログを始めた真相は？▽自宅が動物園？大女優の私生活を自撮りで紹介▽ドラマ「すぐ死ぬんだから」役への思い",
+        "content": "女優・三田佳子がゲスト▽７６歳で始めたＳＮＳ…大丈夫？すっぴん公開もいとわない赤裸々ブログを始めた真相とは？▽自宅が動物園！？大女優の私生活を三田さんが自撮りで紹介▽女優生命の危機…大手術を経てたどり着いた心境とは▽人生１００年時代の新「終活小説」をドラマ化した「すぐ死ぬんだから」で実年齢と同じ役を演じる！",
+        "act": "【ＭＣ】船越英一郎，美保純，小松宏司，【ゲスト】三田佳子，【出演】原口あきまさ",
+        "genres": [
+          "0202"
+        ]
+      },
+      {
+        "id": "2020081907849",
+        "event_id": "07849",
+        "start_time": "2020-08-19T14:00:00+09:00",
+        "end_time": "2020-08-19T14:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2020081907850",
+        "event_id": "07850",
+        "start_time": "2020-08-19T14:05:00+09:00",
+        "end_time": "2020-08-19T14:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ごごナマ「夏野菜たっぷり！涼を呼ぶ食卓」",
+        "subtitle": "食欲が落ちる夏。涼を呼ぶ献立はいかが？鮮やかな色どりと歯ごたえで箸が進む「夏野菜のサラダ寿司」や「キュウリのかすもみ」など、夏野菜いっぱいの絶品レシピ大公開！",
+        "content": "食欲が落ちる暑い夏。“涼”をテーマにした献立、作ってみませんか？教えてくれるのは漬物名人で知られる料理研究家の横山タカ子さん。「夏野菜のサラダ寿司」は、鮮やかな色どりと歯ごたえで箸が進む一品。ほかにも酒かすで風味良く仕上げた「きゅうりのかすもみ」、甘さ控えめの「水ようかん」など、手軽に“涼”が楽しめる絶品レシピをお教えします。番組後半は、“マスク美人”になれるマル秘メイク術を、ピカ子さんが大公開！",
+        "act": "【ＭＣ】船越英一郎，美保純，小松宏司，【ゲスト】友利新，ピカ子，料理研究家…横山タカ子，【リポーター】安部みちこ",
+        "genres": [
+          "0202"
+        ]
+      },
+      {
+        "id": "2020081907851",
+        "event_id": "07851",
+        "start_time": "2020-08-19T14:55:00+09:00",
+        "end_time": "2020-08-19T15:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】岡本美佳，原川愛，舘野伶奈，今井菜津美，【ピアノ】幅しげみ",
+        "content": "",
+        "act": "【出演】岡本美佳，原川愛，舘野伶奈，今井菜津美，【ピアノ】幅しげみ",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2020081907852",
+        "event_id": "07852",
+        "start_time": "2020-08-19T15:00:00+09:00",
+        "end_time": "2020-08-19T15:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2020081907853",
+        "event_id": "07853",
+        "start_time": "2020-08-19T15:05:00+09:00",
+        "end_time": "2020-08-19T15:08:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009"
+        ]
+      },
+      {
+        "id": "2020081907854",
+        "event_id": "07854",
+        "start_time": "2020-08-19T15:08:00+09:00",
+        "end_time": "2020-08-19T15:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ガッテン！「まぶたを見れば一発判明！疲れ目乾きに真・癒やしワザ」",
+        "subtitle": "長引く目の疲れ・乾き、その意外な原因を発見！涙はちゃんと出てるのにドライアイになっちゃう人が！まぶたを見れば一目瞭然のタイプ判定法に自宅でできる改善法を大公開！",
+        "content": "つら～い目の疲れや乾き、目薬をさしてもさしても一向に改善しない…そんな人は要チェック！意外な原因でドライアイになっちゃうタイプが。放置しておくと、目が傷だらけになり、実用視力が低下することも！自分がそのタイプかどうかは、まぶたを見れば一目瞭然。その名も「タピオカサイン」…ぷっくりした小さなかたまりができていたら要注意！でもご安心を…タオルを使って目の不調を改善！自宅でできるとっておきの技を大公開！",
+        "act": "【ゲスト】いとうあさこ，山崎樹範，山根千佳，【司会】立川志の輔，小野文惠，【語り】山寺宏一",
+        "genres": [
+          "0203",
+          "0205",
+          "0202"
+        ]
+      },
+      {
+        "id": "2020081907860",
+        "event_id": "07860",
+        "start_time": "2020-08-19T15:55:00+09:00",
+        "end_time": "2020-08-19T16:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた▽パプリカ米津玄師バージョン／みんなでエールＦｏｏｒｉｎといっしょⅡ",
+        "subtitle": "「パプリカ　米津玄師バージョン」うた：米津玄師／「パプリカ　みんなでエール　ＦｏｏｒｉｎといっしょバージョンⅡ」うた：Ｆｏｏｒｉｎ",
+        "content": "「パプリカ　米津玄師バージョン」うた：米津玄師／「パプリカ　みんなでエール　ＦｏｏｒｉｎといっしょバージョンⅡ」うた：Ｆｏｏｒｉｎ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0700",
+          "0504"
+        ]
+      },
+      {
+        "id": "2020081907861",
+        "event_id": "07861",
+        "start_time": "2020-08-19T16:00:00+09:00",
+        "end_time": "2020-08-19T16:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2020081907862",
+        "event_id": "07862",
+        "start_time": "2020-08-19T16:05:00+09:00",
+        "end_time": "2020-08-19T16:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "グレートトラバース　１５ｍｉｎ．　百名山一筆書き踏破への道「笠ヶ岳」",
+        "subtitle": "田中陽希が百名山一筆書き人力踏破に挑んだ「グレートトラバース」。その旅の模様を毎日１５分ずつお届けする。今回の舞台は、北アルプスの笠ヶ岳。",
+        "content": "プロアドベンチャーレーサーの田中陽希が、屋久島宮之浦岳から利尻島利尻岳まで、日本百名山を自分の足とカヤックで、７か月間かけて人力踏破に挑んだ「グレートトラバース」。その旅の模様を毎日１５分ずつ紹介するシリーズ。今回の舞台は、北アルプスの笠ヶ岳。槍ヶ岳から難所の西鎌尾根を経て双六小屋へ到着した田中。翌日、縦走路から外れた笠ヶ岳を目指す。だが残雪の長い稜線には危険が待受けていた。",
+        "act": "【出演】田中陽希，【語り】岩井証夫，【朗読】阪脩",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2020081907863",
+        "event_id": "07863",
+        "start_time": "2020-08-19T16:20:00+09:00",
+        "end_time": "2020-08-19T16:35:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】純情きらり（２７）「運命の分かれ道」",
+        "subtitle": "昭和初期から戦中戦後、愛知県岡崎と東京を舞台に、桜子（宮崎あおい）が時代に翻弄されながらも音楽への情熱を絶やさず生きる姿を描く。２００６年放送の連続テレビ小説。",
+        "content": "斉藤（劇団ひとり）は婚約を白紙に戻す理由として、遠方にある最先端の研究施設に薦められたと言う。桜子（宮崎あおい）は意気消沈するものの、斉藤の出世に理解を示そうとする。ところが斉藤が岡崎を去る日、勇太郎（松澤傑）が電報の破片を発見。実は、斉藤の実家が倒産し借金を背負ったことが判明。桜子は斉藤を追いかけ、２人は運よく出くわすが、「桜子を巻き添えにするわけにはいかない」と、斉藤は最後の別れを告げる。",
+        "act": "【脚本】浅野妙子，【出演】宮崎あおい，寺島しのぶ，井川遥，室井滋，松澤傑，劇団ひとり，キムラ緑子，八名信夫，【語り】竹下景子，【原案】津島佑子，【音楽】大島ミチル",
+        "genres": [
+          "0300"
+        ]
+      },
+      {
+        "id": "2020081907864",
+        "event_id": "07864",
+        "start_time": "2020-08-19T16:35:00+09:00",
+        "end_time": "2020-08-19T16:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】純情きらり（２８）「運命の分かれ道」",
+        "subtitle": "昭和初期から戦中戦後、愛知県岡崎と東京を舞台に、桜子（宮崎あおい）が時代に翻弄されながらも音楽への情熱を絶やさず生きる姿を描く。２００６年放送の連続テレビ小説。",
+        "content": "昭和１３年、正月。八丁味噌（みそ）の蔵元「山長（やまちょう）」の新年会で、御曹司の達彦（福士誠治）は八高（第八高等学校）を退学して東京音楽学校を受験すると言いだし、女将（おかみ）のかね（戸田恵子）らを仰天させる。桜子（宮崎あおい）は、かねから「達彦をそそのかした」と、あらぬ疑いをかけられるが、ある日喫茶店から聞こえる達彦のピアノ演奏を耳にし、自分に強力なライバルが出現したことを実感する。",
+        "act": "【脚本】浅野妙子，【出演】宮崎あおい，寺島しのぶ，井川遥，室井滋，松澤傑，戸田恵子，福士誠治，キムラ緑子，八名信夫，村田雄浩，【語り】竹下景子，【原案】津島佑子，【音楽】大島ミチル",
+        "genres": [
+          "0300"
+        ]
+      },
+      {
+        "id": "2020081907865",
+        "event_id": "07865",
+        "start_time": "2020-08-19T16:50:00+09:00",
+        "end_time": "2020-08-19T17:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2020081907866",
+        "event_id": "07866",
+        "start_time": "2020-08-19T17:00:00+09:00",
+        "end_time": "2020-08-19T17:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2020081907867",
+        "event_id": "07867",
+        "start_time": "2020-08-19T17:05:00+09:00",
+        "end_time": "2020-08-19T17:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "世界は教科書でできている",
+        "subtitle": "「教科書の知識って役に立ってるの？」そんな疑問にナイツと伊沢拓司が徹底解説する、新しいクイズバラエティー！気づいていないだけで世界は教科書の知識であふれている！",
+        "content": "「教科書の知識って役に立ってるの？」誰しも一度は抱く疑問！しかし気づいていないだけで世界は教科書の知識であふれている！ナイツと伊沢拓司による新しいクイズバラエティー！塩サケを上手に塩抜きする方法は？なぜ１００度のサウナでヤケドしないの？温泉で髪を洗うとギシギシになるのはなぜ？日本語の「誤用」を使ったナイツの漫才も！身の回りのナゾや疑問、教科書があれば解決できちゃう！勝俣州和／銀シャリ／藤本美貴ほか",
+        "act": "【司会】ナイツ，伊沢拓司，【出演】勝俣州和，藤本美貴，銀シャリ，江木鼓次郎，高居玲奈，村上叶",
+        "genres": [
+          "0500"
+        ]
+      },
+      {
+        "id": "2020081914180",
+        "event_id": "14180",
+        "start_time": "2020-08-19T17:50:00+09:00",
+        "end_time": "2020-08-19T17:51:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081911946",
+        "event_id": "11946",
+        "start_time": "2020-08-19T17:51:00+09:00",
+        "end_time": "2020-08-19T17:56:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "星影のエール～福島ｃｏｌｏｒｓ　ｖｅｒ．～",
+        "subtitle": "連続テレビ小説「エール」の主題歌、ＧＲｅｅｅｅＮの『星影のエール』にのせて、福島県５９市町村の特色を、魅力ある映像や写真で紹介します。",
+        "content": "ＮＨＫ福島放送局では連続テレビ小説「エール」の主題歌ＧＲｅｅｅｅＮ『星影のエール』の楽曲を使用した、福島県５９市町村をつなぐプロモーションビデオを製作しました。福島県５９市町村の特色を、魅力ある映像や写真で構成し、東日本大震災を経験した、福島県が持つ“たくましさ”や、困難にも負けず前に進む“姿”を『星影のエール』の曲にのせて送ります。",
+        "act": "",
+        "genres": [
+          "0300",
+          "0400",
+          "0415"
+        ]
+      },
+      {
+        "id": "2020081907870",
+        "event_id": "07870",
+        "start_time": "2020-08-19T17:56:00+09:00",
+        "end_time": "2020-08-19T18:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081907872",
+        "event_id": "07872",
+        "start_time": "2020-08-19T18:00:00+09:00",
+        "end_time": "2020-08-19T18:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2020081907873",
+        "event_id": "07873",
+        "start_time": "2020-08-19T18:10:00+09:00",
+        "end_time": "2020-08-19T18:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "首都圏ネットワーク",
+        "subtitle": "現場取材で鍛えた視点をもつキャスター高井正智と「ブラタモリ」で街を見続けた林田理沙が、首都圏の生活にかかわる大事なニュースと気象情報をいち早く、より深く伝えます",
+        "content": "【キャスター】高井正智，林田理沙，【フィールドキャスター】原大策，浅野里香，【気象キャスター】片山美紀",
+        "act": "【キャスター】高井正智，林田理沙，【フィールドキャスター】原大策，浅野里香，【気象キャスター】片山美紀",
+        "genres": [
+          "0009",
+          "0002",
+          "0202"
+        ]
+      },
+      {
+        "id": "2020081907874",
+        "event_id": "07874",
+        "start_time": "2020-08-19T18:45:00+09:00",
+        "end_time": "2020-08-19T18:52:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "首都圏ネットワーク（東京・神奈川・千葉・埼玉）",
+        "subtitle": "あなたの近くにある「ふるさと」千葉・神奈川・埼玉・東京を「ちかさと」と呼び、１都３県の地域密着の生活に役立つニュースと気象情報を、わかりやすく伝えます。",
+        "content": "【キャスター】高井正智，林田理沙，【フィールドキャスター】原大策，浅野里香，【気象キャスター】片山美紀",
+        "act": "【キャスター】高井正智，林田理沙，【フィールドキャスター】原大策，浅野里香，【気象キャスター】片山美紀",
+        "genres": [
+          "0009",
+          "0002",
+          "0202"
+        ]
+      },
+      {
+        "id": "2020081907875",
+        "event_id": "07875",
+        "start_time": "2020-08-19T18:52:00+09:00",
+        "end_time": "2020-08-19T19:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0001"
+        ]
+      },
+      {
+        "id": "2020081907879",
+        "event_id": "07879",
+        "start_time": "2020-08-19T19:00:00+09:00",
+        "end_time": "2020-08-19T19:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫニュース７",
+        "subtitle": "夜７時、「一歩先へ、一歩深く」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】池田伸子，井上裕貴，【気象キャスター】平野有海",
+        "content": "",
+        "act": "【キャスター】瀧川剛史，【サブキャスター】池田伸子，井上裕貴，【気象キャスター】平野有海",
+        "genres": [
+          "0000",
+          "0001",
+          "0100"
+        ]
+      },
+      {
+        "id": "2020081907880",
+        "event_id": "07880",
+        "start_time": "2020-08-19T19:30:00+09:00",
+        "end_time": "2020-08-19T20:42:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "潜れ！さかなクン「探検！沈没船スペシャル」",
+        "subtitle": "さかなクンがまだ見ぬ海の世界を探検する「潜れ！さかなクン」。今回は西伊豆＆沈没船特集！幻の潜水艦を探すプロジェクトを地上波初公開。シラスに混じるおもしろ稚魚も！",
+        "content": "さかなクンがまだ見ぬ海の世界を探検する「潜れ！さかなクン」。今回は西伊豆＆沈没船特集をお送りする。西伊豆の海はちょうど恋の季節。多様な魚が暮らす沈没船でさかなクンが見たものとは！？そしてシラス漁で偶然とれたおもしろ稚魚たちに大興奮！夜の海で美しい浮遊生物の姿を堪能する。さらに海中探査機の第一人者が開発した水中ドローンも登場。戦後、長崎の沖に沈められた旧日本軍の幻の潜水艦へと向かう。",
+        "act": "【出演】さかなクン，東京大学生産技術研究所教授…浦環，【アナウンサー】首藤奈知子",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2020081907881",
+        "event_id": "07881",
+        "start_time": "2020-08-19T20:42:00+09:00",
+        "end_time": "2020-08-19T20:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "オシばん",
+        "subtitle": "【キャスター】林田理沙",
+        "content": "",
+        "act": "【キャスター】林田理沙",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081907882",
+        "event_id": "07882",
+        "start_time": "2020-08-19T20:45:00+09:00",
+        "end_time": "2020-08-19T21:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "首都圏ニュース８４５",
+        "subtitle": "これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。",
+        "content": "",
+        "act": "【キャスター】上原光紀，【気象キャスター】片山美紀",
+        "genres": [
+          "0009",
+          "0001",
+          "0202"
+        ]
+      },
+      {
+        "id": "2020081907883",
+        "event_id": "07883",
+        "start_time": "2020-08-19T21:00:00+09:00",
+        "end_time": "2020-08-19T22:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュースウオッチ９",
+        "subtitle": "▽夜９時　ニュースの焦点は　▽“わかりたい”にこたえたい　▽関心の高いテーマを特集　▽速報スポーツ　▽気象情報　ほか　【キャスター】有馬嘉男，和久田麻由子ほか",
+        "content": "▽夜９時　ニュースの焦点は？▽あなたの“わかりたい”にこたえたい▽有馬・和久田両キャスターがテーマを掘り下げて伝えます！▽ニュースの現場にリポーターが直行▽きょうのイチ押しスポーツを速報▽あすの天気　ポイントをやさしく解説",
+        "act": "【キャスター】有馬嘉男，和久田麻由子，【スポーツキャスター】西川典孝，【気象キャスター】斉田季実治",
+        "genres": [
+          "0000",
+          "0001",
+          "0100"
+        ]
+      },
+      {
+        "id": "2020081907884",
+        "event_id": "07884",
+        "start_time": "2020-08-19T22:00:00+09:00",
+        "end_time": "2020-08-19T22:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "芦田愛菜・山里亮太の“世紀の財宝”大発見！",
+        "subtitle": "海底から、土の中から…輝く黄金が！大量の銀貨が！そんなワクワクする“世紀の財宝”大発見の「決定的瞬間」を捉えた貴重映像満載でお届けする大興奮・知的エンタメ！",
+        "content": "近年、世界中で相次ぐ“世紀の財宝”大発見の貴重映像を一挙大公開！▼史上空前！４００億円の海底財宝を発見！しかし、悪夢のような結末が…▼タイの田舎町がゴールドラッシュで大騒ぎ！黄金に刻まれた謎の文字とは？▼ロシア発！黄金と共に眠る謎の“女装”ガイコツ▼漫画『キングダム』で注目の秦・始皇帝の陵墓近くから黄金のラクダが！▼波乱万丈！幻の財宝船探しに生涯を捧げた“伝説のトレジャーハンター”一家の数奇な人生",
+        "act": "【出演】芦田愛菜，山里亮太，【解説】予備校講師（世界史）…荒巻豊志，【語り】田中真弓",
+        "genres": [
+          "0801",
+          "0515",
+          "0502"
+        ]
+      },
+      {
+        "id": "2020081907885",
+        "event_id": "07885",
+        "start_time": "2020-08-19T22:45:00+09:00",
+        "end_time": "2020-08-19T23:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "夢の本屋をめぐる冒険（２）「中国編【千葉雄大×門脇麦】紀行とドラマ」",
+        "subtitle": "＜ドラマ＋紀行＞　千葉雄大と門脇麦が、世界の「夢のように素敵な本屋」を紹介！　二夜連続で、フランスと中国の、おしゃれで個性豊かな本屋を巡る旅にご案内します！",
+        "content": "千葉と門脇は街の小さな本屋で働く「バイトさん」と「店長」。潰れそうな書店の再生策をめぐって、丁々発止のやりとりを繰り広げ…そんなドラマを縦軸に、世界の「夢の本屋」を探訪します。第二夜は、欧米メディアが「世界一美しい」とたたえる中国・南京の「先鋒書店」。ＳＮＳ映えするデザイン空間で、客は皆、幸せそう。創業者は貧しい身からたたき上げた苦労人。その理念が最先端の書店を生んだ感動物語をお楽しみ下さい。",
+        "act": "【出演】千葉雄大，門脇麦，青木柚，【語り】大方斐紗子",
+        "genres": [
+          "0801",
+          "0300",
+          "1000"
+        ]
+      },
+      {
+        "id": "2020081907887",
+        "event_id": "07887",
+        "start_time": "2020-08-19T23:15:00+09:00",
+        "end_time": "2020-08-19T23:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュースきょう一日",
+        "subtitle": "きょう一日がわかる、おやすみ前の１５分。仕事や家事で忙しかったあなたに。ポイントをわかりやすく。あしたにつながる、ささやかだけど役に立つ情報をまとめてお届け。",
+        "content": "【キャスター】井上あさひ，【気象キャスター】平井信行",
+        "act": "【キャスター】井上あさひ，【気象キャスター】平井信行",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2020081907888",
+        "event_id": "07888",
+        "start_time": "2020-08-19T23:30:00+09:00",
+        "end_time": "2020-08-19T23:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "時論公論　【出演】ＮＨＫ解説委員",
+        "subtitle": "▽社会がわかる、時代が見える　▽政治、経済、社会、科学文化、国際など時事問題を幅広く網羅　▽一日の終わりに主要ニュースを掘り下げて、明日を考える。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0006",
+          "0000",
+          "0007"
+        ]
+      },
+      {
+        "id": "2020081907889",
+        "event_id": "07889",
+        "start_time": "2020-08-19T23:40:00+09:00",
+        "end_time": "2020-08-19T23:42:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "可視化でまるわかり　新型コロナ対策の新常識ミニ～トイレ編～",
+        "subtitle": "見えないウイルスの動きを最新科学で可視化！感染のリスクを効果的に抑え、安心して生活・仕事・教育を維持するためのポイントをご紹介。トイレの感染リスクを可視化！",
+        "content": "見えないウイルスの動きを最新科学で可視化！感染のリスクを効果的に抑え、安心して生活・仕事・教育を維持するためのポイントをご紹介。トイレの感染リスクを可視化！",
+        "act": "",
+        "genres": [
+          "0202",
+          "0203"
+        ]
+      },
+      {
+        "id": "2020081907890",
+        "event_id": "07890",
+        "start_time": "2020-08-19T23:42:00+09:00",
+        "end_time": "2020-08-19T23:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081907891",
+        "event_id": "07891",
+        "start_time": "2020-08-19T23:45:00+09:00",
+        "end_time": "2020-08-20T00:17:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2020081908438",
+        "event_id": "08438",
+        "start_time": "2020-08-20T00:17:00+09:00",
+        "end_time": "2020-08-20T00:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081908439",
+        "event_id": "08439",
+        "start_time": "2020-08-20T00:20:00+09:00",
+        "end_time": "2020-08-20T00:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2020081908440",
+        "event_id": "08440",
+        "start_time": "2020-08-20T00:55:00+09:00",
+        "end_time": "2020-08-20T01:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫスペシャル",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0800",
+          "0807",
+          "0008"
+        ]
+      },
+      {
+        "id": "2020081908444",
+        "event_id": "08444",
+        "start_time": "2020-08-20T01:45:00+09:00",
+        "end_time": "2020-08-20T03:43:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ミッドナイトチャンネル",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2020081908445",
+        "event_id": "08445",
+        "start_time": "2020-08-20T03:43:00+09:00",
+        "end_time": "2020-08-20T03:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「ミスター　シンセサイザー」「あさな　ゆうな」",
+        "subtitle": "「ミスター　シンセサイザー」うた：タモリ／「あさな　ゆうな」うた：城　南海",
+        "content": "「ミスター　シンセサイザー」うた：タモリ／「あさな　ゆうな」うた：城　南海",
+        "act": "",
+        "genres": [
+          "0409",
+          "0700",
+          "0504"
+        ]
+      },
+      {
+        "id": "2020081908449",
+        "event_id": "08449",
+        "start_time": "2020-08-20T03:50:00+09:00",
+        "end_time": "2020-08-20T04:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "視点・論点",
+        "subtitle": "▽政治や経済、国際関係から文化まで、さまざまなテーマを専門家や有識者がみずからの言葉で語る　▽各界の第一人者はもちろん、新進気鋭の論客も登場。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0006",
+          "0800",
+          "0215"
+        ]
+      },
+      {
+        "id": "2020081908450",
+        "event_id": "08450",
+        "start_time": "2020-08-20T04:00:00+09:00",
+        "end_time": "2020-08-20T04:02:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "明日へ１ｍｉｎ．　僕に、私に、できること（５）さかなクン",
+        "subtitle": "被災地のために“できること”を伝えるシリーズ▽復興支援を続けるさかなクン▽震災後子どもたちのために始めた「いのちの授業」▽「尊いひとつの命」の大切さを伝えたい！",
+        "content": "被災地のために“できること”とは―それぞれの関わり方や思いを伝えるシリーズ▽復興支援を続けるさかなクン▽この１０年大切に続けている「いのちの授業」▽きっかけは東日本大震災▽“心のふるさと東北”への恩返し▽大好きな魚を通して命の大切さを子どもたちに伝えたい！▽ふるさとの海で懸命に生きているお魚大集合♪▽今だからこそ伝えたいメッセージとは？",
+        "act": "",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2020081908453",
+        "event_id": "08453",
+        "start_time": "2020-08-20T04:02:00+09:00",
+        "end_time": "2020-08-20T04:03:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プレマップ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2020081914309",
+        "event_id": "14309",
+        "start_time": "2020-08-20T04:03:00+09:00",
+        "end_time": "2020-08-20T04:13:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ホットスポット最後の楽園▽カリブ海２　神秘の水中鍾乳洞メキシコ・ユカタン半島",
+        "subtitle": "メキシコ・ユカタン半島には驚くような透明の水で満たされた“セノーテ”と呼ばれる泉がある。その地下には世界最大級の水中洞窟が広がり不思議な生きものたちが暮らす。",
+        "content": "メキシコ・ユカタン半島には“セノーテ”と呼ばれる不思議な泉がある。水中に入ると、そこはどこまでも透明な水で満たされた暗黒の世界。ライトを頼りに進んでいくと突然、目の前に体育館ほどの広間が現れる。天井から吊り下がる無数の鍾乳石は圧巻だ。中でも「地獄のベル」と呼ばれる場所には、人間の背丈ほどあるベル状の石灰岩が幾重にもぶら下がっている。神秘の水中鍾乳洞と暗黒の世界に適応した奇妙な生きものたちに迫る。",
+        "act": "【語り】桑子真帆",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2020081911951",
+        "event_id": "11951",
+        "start_time": "2020-08-20T04:13:00+09:00",
+        "end_time": "2020-08-20T04:28:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "北海道　四季の彩り「夏の華やぎ」",
+        "subtitle": "日本の国土の５分の１を占める北海道。壮大な絶景が広がり、野生動物たちの命が躍動する。北の大地に季節は巡り、四季折々の自然が育む、多彩な表情を見つめる。",
+        "content": "短いからこそ強い輝きに満ちあふれる北海道の夏。北海道東部の屈斜路湖では、浅瀬に産卵に集まるウグイをキタキツネが狙い、羽化したカゲロウが大集団となり湖面で求愛の飛行を行う。太平洋に面した白糠町の海岸では、美しいアオバトが荒波に巻き込まれながらも海水を飲み、世界最小の哺乳類の一つ、トウキョウトガリネズミが走り回る。阿寒湖のほとりに広がる森では、動物でも植物でもない不思議な生きもの、粘菌が胞子を飛ばす。",
+        "act": "【語り】浅野里香",
+        "genres": [
+          "0802"
+        ]
+      }
+    ]
+  }
+}
