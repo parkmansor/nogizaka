@@ -2,10 +2,10 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable, of, generate } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
-import { TvInfo } from '../tv-info';
-import { NogiTvService } from '../nogi-tv.service';
-import { NogiMemberInfo } from '../nogi-member'
-import { NogiMemberService } from '../nogi-member.service'
+import { TvInfo } from './tv-info';
+import { NogiTvService } from './nogi-tv.service';
+import { NogiMemberInfo } from '../service/nogi-member/nogi-member'
+import { NogiMemberService } from '../service/nogi-member/nogi-member.service'
 
 @Component({
   selector: 'app-nogi-tv',
@@ -54,25 +54,17 @@ export class NogiTvComponent implements OnInit {
 
   // 初期化
   ngOnInit(): void {
-    // 初期値
-    this.nowClass = {
-      '1期生': true,
-      '2期生': true,
-      '3期生': true,
-      '4期生': true,
-      '卒業生': true,
-    }
-
     // Httpで情報取得
     if (this.nogiTv.GetTvInfoBody().length == 0) {
       this.nogiTv.SetupTvInfoEntry()
       .subscribe(
         res => {
+          console.log(`初回取得成功`)
           this.tvInfoBody = this.nogiTv.GetTvInfoBody()
           // this.saveBackUpFile(res)
         },
         error => {
-          console.error(error)
+          console.error(`初回取得失敗[${error}]`)
         }
       )
     } else {

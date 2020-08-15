@@ -1,41 +1,38 @@
-<div class="py-4">
-  <div class="container">
-    <h3 class="mb-3">TV番組</h3>
+<div class="container">
+  <h3 class="mb-3 display-4">TV番組</h3>
 
-    <!-- チェックボックス -->
-    <div>
-      <p [ngClass]="nowClass"></p>
-      <div class="form-check form-check-inline" *ngFor = "let chkOne of checkBoxList">
-        <input class="form-check-input" type="checkbox" checked="checked" #ck (change)="checkboxSelectMember(ck.checked, chkOne.name)">
-        <label class="form-check-label">{{chkOne.name}}</label>
-      </div>
+  <!-- チェックボックス -->
+  <div>
+    <p [ngClass]="nowClass"></p>
+    <div class="form-check form-check-inline" *ngFor = "let chkOne of checkBoxList">
+      <input class="form-check-input" type="checkbox" checked="checked" #ck (change)="checkboxSelectMember(ck.checked, chkOne.name)">
+      <label class="form-check-label">{{chkOne.name}}</label>
     </div>
-
-    <!-- テーブル -->
-    <table class="table table-bordered table-hover table-wanring table-striped">
-      <thead class="table-dark">
-        <tr>
-        <th>TV局</th>
-          <th scope="col">開始時間</th>
-          <th scope="col">終了時間</th>
-          <th scope="col">タイトル</th>
-          <th scope="col">メンバー</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr *ngFor="let tvOne of tvInfoBody">
-          <td>{{tvOne.chName}}</td>
-          <td>{{tvOne.start_time}}</td>
-          <td>{{tvOne.end_time}}</td>
-          <td>{{tvOne.title}}</td>
-          <td>
-            <div *ngFor = "let memberName of tvOne.act">{{memberName}}</div>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <br>
-    <footer>情報提供:ＮＨＫ</footer>
   </div>
-</div>
 
+  <!-- テーブル -->
+  <table class="table table-bordered table-hover table-sm table-wanring table-striped">
+    <thead class="table-dark">
+      <tr>
+      <th>TV局</th>
+        <th scope="col">開始時間</th>
+        <th scope="col">終了時間</th>
+        <th scope="col">タイトル</th>
+        <th scope="col">メンバー</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let tvOne of tvInfoBody">
+        <td>{{tvOne.chName}}</td>
+        <td>{{tvOne.start_time}}</td>
+        <td>{{tvOne.end_time}}</td>
+        <td>{{tvOne.title}}</td>
+        <td>
+          <div *ngFor = "let memberName of tvOne.act">{{memberName}}</div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <footer>情報提供:ＮＨＫ</footer>
+</div>

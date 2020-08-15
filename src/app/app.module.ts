@@ -8,7 +8,9 @@ import { NogiHistComponent } from './nogi-hist/nogi-hist.component';
 import { from } from 'rxjs';
 import { HttpClientModule } from '@angular/common/http';
 import { LinkComponent } from './link/link.component';
-import { NogiFortuneComponent } from './nogi-fortune/nogi-fortune.component';
+import { NogiUranaiComponent } from './nogi-uranai/nogi-uranai.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { IntroComponent } from './intro/intro.component';
 
 @NgModule({
   declarations: [
@@ -16,12 +18,15 @@ import { NogiFortuneComponent } from './nogi-fortune/nogi-fortune.component';
     NogiTvComponent,
     NogiHistComponent,
     LinkComponent,
-    NogiFortuneComponent,
+    NogiUranaiComponent,
+    IntroComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,35 +1,22 @@
 <!-- ヘッダ -->
-<header class="py-4">
-  <div class="container text-center">
-    <h1>
-      乃木坂46
-    </h1>
-  </div>
-</header>
+<h1 class="mb-3 display-2 text-center">
+  乃木坂46
+</h1>
+<br>
 
-<!-- ナビゲーションバー -->
-<nav class="navbar navbar-expand-md navbar-dark bg-dark stricky-top">
-  <div class="container">
-    <a class="navbar-brand" href="index.html"></a>
-
-    <div class="collapse navbar-collapse">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/nogi-tv">TV番組</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/nogi-fortune">占い</a> 
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/nogi-hist">歴史</a> 
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/link">Link</a> 
-        </li>
-      </ul>
+<!-- リンク -->
+<div class="container">
+  <nav>
+    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+      <a class="nav-item nav-link" id="nav-home-tab" data-toggle="tab" href="#" role="tab" aria-controls="nav-home" aria-selected="true" routerLink="/">Home</a>
+      <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nogi-uranai" role="tab" aria-controls="nav-profile" aria-selected="false"  routerLink="/nogi-uranai">押し占い</a>
+      <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nogi-tv" role="tab" aria-controls="nav-contact" aria-selected="false" routerLink="/nogi-tv">TV番組</a>
+      <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#link" role="tab" aria-controls="nav-contact" aria-selected="false" routerLink="/link">リンク</a>
     </div>
-  </div>
-</nav>
+  </nav>
+  <img src="http://www.rays-counter.com/d466_f6_001/5f3785418a49c/" alt="アクセスカウンター" class="float-right" border="0">
+</div>
+<br>
 
+<!-- 中身 -->
 <router-outlet></router-outlet>
- 

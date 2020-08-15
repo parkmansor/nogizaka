@@ -1,0 +1,47 @@
+<div class="container">
+  <h3 class="mb-3 display-4">推しメン占い</h3>
+  <br>
+  <form #f= "ngForm" [formGroup]="myControl" (ngSubmit)="onSubmit(f.value)">
+    <p>あなたの誕生日：<input type="date" formControlName="birthday"/></p>
+    <div>
+      <p>あなたの血液型：
+        <select formControlName="boold">
+          <option>A</option>
+          <option>O</option>
+          <option>B</option>
+          <option>AB</option>
+          <option>不明</option>
+        </select>
+      </p>
+    </div>
+    <p>あなたのお名前：<input type="text" formControlName="name"/></p>
+    <input type="submit" value="占う">
+  </form>
+  <br>
+
+  <p *ngIf="isDispEnable == true">
+    あなたの推しメンは
+    <a class="mb-3 display-4" href="https://48pedia.org/{{memberScore[0].name}}">{{memberScore[0].name}}</a>
+    です！
+  </p>
+  <p *ngIf="isDispEnable == false">
+    　　※箱押しの場合はグループ名を表示します
+  </p>
+ 
+  <!-- テーブル -->
+  <table class="table table-borderless table-hover table-striped">
+    <thead class="table-lignt">
+      <tr>
+        <th scope="col">スコア</th>
+        <th scope="col">メンバ</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let scoreOne of memberScore">
+        <td>{{scoreOne.score}}</td>
+        <td><a href="https://48pedia.org/{{scoreOne.name}}">{{scoreOne.name}}</a></td>
+      </tr>
+    </tbody>
+  </table>    
+
+</div>

@@ -1,0 +1,1270 @@
+[
+	{
+		"name": "乃木坂46",
+		"birthday": "2011年2月22日",
+		"home": "乃木坂",
+		"bloodType": "U",
+		"height": 0,
+		"kakusu": [
+			2,
+			4,
+			7,
+			0,
+			0
+		],
+		"generate": 0,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "乃木坂４６",
+		"birthday": "2011年2月22日",
+		"home": "乃木坂",
+		"bloodType": "U",
+		"height": 0,
+		"kakusu": [
+			2,
+			4,
+			7,
+			0,
+			0
+		],
+		"generate": 0,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "秋元真夏",
+		"birthday": "1993年8月20日",
+		"home": "埼玉県",
+		"bloodType": "B",
+		"height": 154,
+		"kakusu": [
+			9,
+			4,
+			10,
+			10
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "生田絵梨花",
+		"birthday": "1997年1月22日",
+		"home": "東京都",
+		"bloodType": "A",
+		"height": 160,
+		"kakusu": [
+			5,
+			5,
+			12,
+			11,
+			8
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "伊藤純奈",
+		"birthday": "1998年11月30日",
+		"home": "神奈川県",
+		"bloodType": "A",
+		"height": 166,
+		"kakusu": [
+			6,
+			18,
+			10,
+			8
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "伊藤理々杏",
+		"birthday": "2002年10月8日",
+		"home": "沖縄県",
+		"bloodType": "B",
+		"height": 154,
+		"kakusu": [
+			6,
+			18,
+			11,
+			3,
+			7
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "岩本蓮加",
+		"birthday": "2004年2月2日",
+		"home": "東京都",
+		"bloodType": "B",
+		"height": 157,
+		"kakusu": [
+			8,
+			5,
+			13,
+			5
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "梅澤美波",
+		"birthday": "1999年1月6日",
+		"home": "神奈川県",
+		"bloodType": "A",
+		"height": 170,
+		"kakusu": [
+			10,
+			16,
+			9,
+			8
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "大園桃子",
+		"birthday": "1999年9月13日",
+		"home": "鹿児島県",
+		"bloodType": "O",
+		"height": 156,
+		"kakusu": [
+			3,
+			13,
+			10,
+			3
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "北野日奈子",
+		"birthday": "1996年7月17日",
+		"home": "北海道",
+		"bloodType": "O",
+		"height": 158,
+		"kakusu": [
+			5,
+			11,
+			4,
+			8,
+			3
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "久保史緒里",
+		"birthday": "2001年7月14日",
+		"home": "宮城県",
+		"bloodType": "O",
+		"height": 159,
+		"kakusu": [
+			3,
+			9,
+			5,
+			14,
+			7
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "齋藤飛鳥",
+		"birthday": "1998年8月10日",
+		"home": "東京都",
+		"bloodType": "O",
+		"height": 158,
+		"kakusu": [
+			16,
+			18,
+			9,
+			11
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "阪口珠美",
+		"birthday": "2001年11月10日",
+		"home": "東京都",
+		"bloodType": "A",
+		"height": 161,
+		"kakusu": [
+			7,
+			3,
+			10,
+			9
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "佐藤楓",
+		"birthday": "1998年3月23日",
+		"home": "愛知県",
+		"bloodType": "A",
+		"height": 161,
+		"kakusu": [
+			7,
+			18,
+			13
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "白石麻衣",
+		"birthday": "1992年8月20日",
+		"home": "群馬県",
+		"bloodType": "A",
+		"height": 162,
+		"kakusu": [
+			5,
+			5,
+			11,
+			6
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "新内眞衣",
+		"birthday": "1992年1月22日",
+		"home": "埼玉県",
+		"bloodType": "B",
+		"height": 165,
+		"kakusu": [
+			13,
+			4,
+			10,
+			6
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "鈴木絢音",
+		"birthday": "1999年3月5日",
+		"home": "秋田県",
+		"bloodType": "O",
+		"height": 160,
+		"kakusu": [
+			13,
+			4,
+			12,
+			9
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "高山一実",
+		"birthday": "1994年2月8日",
+		"home": "千葉県",
+		"bloodType": "A",
+		"height": 162,
+		"kakusu": [
+			10,
+			3,
+			1,
+			8
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "寺田蘭世",
+		"birthday": "1998年9月23日",
+		"home": "東京都",
+		"bloodType": "U",
+		"height": 155,
+		"kakusu": [
+			6,
+			5,
+			20,
+			5
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "中田花奈",
+		"birthday": "1994年8月6日",
+		"home": "埼玉県",
+		"bloodType": "A",
+		"height": 158,
+		"kakusu": [
+			4,
+			5,
+			8,
+			8
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "中村麗乃",
+		"birthday": "2001年9月27日",
+		"home": "東京都",
+		"bloodType": "U",
+		"height": 167,
+		"kakusu": [
+			4,
+			7,
+			19,
+			2
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "樋口日奈",
+		"birthday": "1998年1月31日",
+		"home": "東京都",
+		"bloodType": "A",
+		"height": 159,
+		"kakusu": [
+			14,
+			3,
+			4,
+			8
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "星野みなみ",
+		"birthday": "1998年2月6日",
+		"home": "千葉県",
+		"bloodType": "B",
+		"height": 155,
+		"kakusu": [
+			9,
+			11,
+			0,
+			0,
+			0
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "堀未央奈",
+		"birthday": "1996年10月15",
+		"home": "岐阜県",
+		"bloodType": "O",
+		"height": 160,
+		"kakusu": [
+			11,
+			5,
+			5,
+			8
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "松村沙友理",
+		"birthday": "1992年8月27日",
+		"home": "大阪府",
+		"bloodType": "B",
+		"height": 164,
+		"kakusu": [
+			8,
+			7,
+			7,
+			4,
+			11
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "向井葉月",
+		"birthday": "1999年8月23日",
+		"home": "東京都",
+		"bloodType": "A",
+		"height": 152,
+		"kakusu": [
+			6,
+			4,
+			13,
+			4
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "山崎怜奈",
+		"birthday": "1997年5月21日",
+		"home": "東京都",
+		"bloodType": "B",
+		"height": 164,
+		"kakusu": [
+			3,
+			11,
+			8,
+			8
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "山下美月",
+		"birthday": "1999年7月26日",
+		"home": "東京都",
+		"bloodType": "O",
+		"height": 159,
+		"kakusu": [
+			3,
+			3,
+			9,
+			4
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "吉田綾乃",
+		"birthday": "1995年9月6日",
+		"home": "大分県",
+		"bloodType": "A",
+		"height": 161,
+		"kakusu": [
+			6,
+			5,
+			14,
+			2
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "与田祐希",
+		"birthday": "2000年5月5日",
+		"home": "福岡県",
+		"bloodType": "O",
+		"height": 152,
+		"kakusu": [
+			3,
+			5,
+			9,
+			7
+		],
+		"generate": 3,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "和田まあや",
+		"birthday": "1998年4月23日",
+		"home": "広島県",
+		"bloodType": "O",
+		"height": 160,
+		"kakusu": [
+			8,
+			5,
+			0,
+			0,
+			0
+		],
+		"generate": 1,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "渡辺みり愛",
+		"birthday": "1999年11月1日",
+		"home": "東京都",
+		"bloodType": "O",
+		"height": 153,
+		"kakusu": [
+			12,
+			5,
+			0,
+			0,
+			13
+		],
+		"generate": 2,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "遠藤さくら",
+		"birthday": "2001年10月3日",
+		"home": "愛知県",
+		"bloodType": "U",
+		"height": 160,
+		"kakusu": [
+			13,
+			18,
+			0,
+			0,
+			0
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "賀喜遥香",
+		"birthday": "2001年8月8日",
+		"home": "栃木県",
+		"bloodType": "A",
+		"height": 166,
+		"kakusu": [
+			12,
+			12,
+			12,
+			9
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "掛橋沙耶香",
+		"birthday": "2002年11月20",
+		"home": "岡山県",
+		"bloodType": "B",
+		"height": 156,
+		"kakusu": [
+			11,
+			16,
+			7,
+			9,
+			9
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "金川紗耶",
+		"birthday": "2001年10月31",
+		"home": "北海道",
+		"bloodType": "O",
+		"height": 164,
+		"kakusu": [
+			8,
+			3,
+			10,
+			9
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "北川悠理",
+		"birthday": "2001年8月8日",
+		"home": "東京都",
+		"bloodType": "U",
+		"height": 163,
+		"kakusu": [
+			5,
+			3,
+			11,
+			11
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "柴田柚菜",
+		"birthday": "2003年3月3日",
+		"home": "千葉県",
+		"bloodType": "A",
+		"height": 160,
+		"kakusu": [
+			9,
+			5,
+			9,
+			11
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "清宮レイ",
+		"birthday": "2003年8月1日",
+		"home": "埼玉県",
+		"bloodType": "O",
+		"height": 162,
+		"kakusu": [
+			11,
+			10,
+			0,
+			0
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "田村真佑",
+		"birthday": "1999年1月12日",
+		"home": "埼玉県",
+		"bloodType": "A",
+		"height": 158,
+		"kakusu": [
+			5,
+			7,
+			10,
+			7
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "筒井あやめ",
+		"birthday": "2004年6月8日",
+		"home": "愛知県",
+		"bloodType": "O",
+		"height": 160,
+		"kakusu": [
+			12,
+			4,
+			0,
+			0,
+			0
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "早川聖来",
+		"birthday": "2000年8月24日",
+		"home": "大阪府",
+		"bloodType": "A",
+		"height": 164,
+		"kakusu": [
+			6,
+			3,
+			13,
+			7
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "矢久保美緒",
+		"birthday": "2002年8月14日",
+		"home": "東京都",
+		"bloodType": "B",
+		"height": 152,
+		"kakusu": [
+			5,
+			3,
+			9,
+			9,
+			14
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "黒見明香",
+		"birthday": "2004年1月19日",
+		"home": "東京都",
+		"bloodType": "O",
+		"height": 162,
+		"kakusu": [
+			11,
+			7,
+			8,
+			9
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "佐藤璃果",
+		"birthday": "2001年8月9日",
+		"home": "岩手県",
+		"bloodType": "B",
+		"height": 158,
+		"kakusu": [
+			7,
+			18,
+			15,
+			8
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "林瑠奈",
+		"birthday": "2003年10月2日",
+		"home": "神奈川県",
+		"bloodType": "O",
+		"height": 163,
+		"kakusu": [
+			8,
+			14,
+			8
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "松尾美佑",
+		"birthday": "2004年1月3日",
+		"home": "千葉県",
+		"bloodType": "O",
+		"height": 165,
+		"kakusu": [
+			8,
+			7,
+			9,
+			7
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "弓木奈於",
+		"birthday": "1999年2月3日",
+		"home": "京都府",
+		"bloodType": "A",
+		"height": 165,
+		"kakusu": [
+			3,
+			4,
+			8,
+			8
+		],
+		"generate": 4,
+		"graduate": "",
+		"firstNameLen": 2
+	},
+	{
+		"name": "山本穂乃香",
+		"birthday": "1998年3月31日",
+		"home": "愛知県",
+		"bloodType": "O",
+		"height": 162,
+		"kakusu": [
+			3,
+			5,
+			15,
+			2,
+			9
+		],
+		"generate": 1,
+		"graduate": "2011年9月22日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "吉本彩華",
+		"birthday": "1996年8月18日",
+		"home": "熊本県",
+		"bloodType": "A",
+		"height": 147,
+		"kakusu": [
+			6,
+			5,
+			11,
+			10
+		],
+		"generate": 1,
+		"graduate": "2011年9月22日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "岩瀬佑美子",
+		"birthday": "1990年6月12日",
+		"home": "埼玉県",
+		"bloodType": "A",
+		"height": 153,
+		"kakusu": [
+			8,
+			19,
+			7,
+			9,
+			3
+		],
+		"generate": 1,
+		"graduate": "2012年11月18日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "安藤美雲",
+		"birthday": "1993年5月21日",
+		"home": "神奈川県",
+		"bloodType": "O",
+		"height": 156,
+		"kakusu": [
+			6,
+			18,
+			9,
+			12
+		],
+		"generate": 1,
+		"graduate": "2013年6月16日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "柏幸奈",
+		"birthday": "1994年8月12日",
+		"home": "神奈川県",
+		"bloodType": "B",
+		"height": 158,
+		"kakusu": [
+			9,
+			8,
+			8
+		],
+		"generate": 1,
+		"graduate": "2013年11月17日]",
+		"firstNameLen": 2
+	},
+	{
+		"name": "宮澤成良",
+		"birthday": "1993年10月29日",
+		"home": "千葉県",
+		"bloodType": "O",
+		"height": 166,
+		"kakusu": [
+			10,
+			16,
+			6,
+			7
+		],
+		"generate": 1,
+		"graduate": "2013年11月17日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "市來玲奈",
+		"birthday": "1996年1月22日",
+		"home": "千葉県",
+		"bloodType": "A",
+		"height": 153,
+		"kakusu": [
+			5,
+			8,
+			9,
+			8
+		],
+		"generate": 1,
+		"graduate": "2014年7月21日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "伊藤寧々",
+		"birthday": "1995年12月12日",
+		"home": "岐阜県",
+		"bloodType": "B",
+		"height": 148,
+		"kakusu": [
+			6,
+			18,
+			14,
+			3
+		],
+		"generate": 1,
+		"graduate": "2014年10月19日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "大和里菜",
+		"birthday": "1994年12月14日",
+		"home": "宮城県",
+		"bloodType": "O",
+		"height": 162,
+		"kakusu": [
+			3,
+			8,
+			7,
+			11
+		],
+		"generate": 1,
+		"graduate": "2014年12月15日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "畠中清羅",
+		"birthday": "1995年12月5日",
+		"home": "大分県",
+		"bloodType": "B",
+		"height": 150,
+		"kakusu": [
+			10,
+			4,
+			11,
+			19
+		],
+		"generate": 1,
+		"graduate": "2015年4月4日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "松井玲奈",
+		"birthday": "1991年7月27日",
+		"home": "愛知県",
+		"bloodType": "O",
+		"height": 162,
+		"kakusu": [
+			8,
+			4,
+			9,
+			8
+		],
+		"generate": 1,
+		"graduate": "2015年5月14日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "永島聖羅",
+		"birthday": "1994年5月19日",
+		"home": "愛知県",
+		"bloodType": "O",
+		"height": 158,
+		"kakusu": [
+			5,
+			10,
+			13,
+			19
+		],
+		"generate": 1,
+		"graduate": "2016年3月20日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "深川麻衣",
+		"birthday": "1991年3月29日",
+		"home": "静岡県",
+		"bloodType": "O",
+		"height": 162,
+		"kakusu": [
+			11,
+			3,
+			11,
+			6
+		],
+		"generate": 1,
+		"graduate": "2016年6月16日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "橋本奈々未",
+		"birthday": "1993年2月20日",
+		"home": "北海道",
+		"bloodType": "B",
+		"height": 163,
+		"kakusu": [
+			16,
+			5,
+			8,
+			3,
+			5
+		],
+		"generate": 1,
+		"graduate": "2017年2月20日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "中元日芽香",
+		"birthday": "1996年4月13日",
+		"home": "広島県",
+		"bloodType": "O",
+		"height": 161,
+		"kakusu": [
+			4,
+			4,
+			4,
+			8,
+			9
+		],
+		"generate": 1,
+		"graduate": "2017年11月19日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "伊藤万理華",
+		"birthday": "1996年2月20日",
+		"home": "神奈川県",
+		"bloodType": "O",
+		"height": 156,
+		"kakusu": [
+			6,
+			18,
+			3,
+			11,
+			10
+		],
+		"generate": 1,
+		"graduate": "2017年12月23日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "川村真洋",
+		"birthday": "1995年7月23日",
+		"home": "大阪府",
+		"bloodType": "A",
+		"height": 157,
+		"kakusu": [
+			3,
+			7,
+			10,
+			9
+		],
+		"generate": 1,
+		"graduate": "2018年3月31日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "生駒里奈",
+		"birthday": "1995年12月29日",
+		"home": "秋田県",
+		"bloodType": "AB",
+		"height": 153,
+		"kakusu": [
+			5,
+			15,
+			7,
+			8
+		],
+		"generate": 1,
+		"graduate": "2018年5月6日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "斎藤ちはる",
+		"birthday": "1997年2月17日",
+		"home": "埼玉県",
+		"bloodType": "A",
+		"height": 166,
+		"kakusu": [
+			11,
+			18,
+			0,
+			0,
+			0
+		],
+		"generate": 1,
+		"graduate": "2018年7月16日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "相楽伊織",
+		"birthday": "1997年11月26日",
+		"home": "埼玉県",
+		"bloodType": "O",
+		"height": 164,
+		"kakusu": [
+			9,
+			13,
+			6,
+			18
+		],
+		"generate": 2,
+		"graduate": "2018年7月16日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "若月佑美",
+		"birthday": "1994年6月27日",
+		"home": "静岡県",
+		"bloodType": "O",
+		"height": 157,
+		"kakusu": [
+			9,
+			4,
+			7,
+			9
+		],
+		"generate": 1,
+		"graduate": "2018年11月30日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "能條愛未",
+		"birthday": "1994年10月18日",
+		"home": "神奈川県",
+		"bloodType": "A",
+		"height": 162,
+		"kakusu": [
+			10,
+			11,
+			13,
+			5
+		],
+		"generate": 1,
+		"graduate": "2018年12月15日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "川後陽菜",
+		"birthday": "1998年3月22日",
+		"home": "長崎県",
+		"bloodType": "O",
+		"height": 161,
+		"kakusu": [
+			3,
+			9,
+			12,
+			11
+		],
+		"generate": 1,
+		"graduate": "2018年12月20日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "西野七瀬",
+		"birthday": "1994年5月25日",
+		"home": "大阪府",
+		"bloodType": "O",
+		"height": 159,
+		"kakusu": [
+			6,
+			11,
+			2,
+			19
+		],
+		"generate": 1,
+		"graduate": "2018年12月31日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "衛藤美彩",
+		"birthday": "1993年1月4日",
+		"home": "大分県",
+		"bloodType": "AB",
+		"height": 163,
+		"kakusu": [
+			15,
+			18,
+			9,
+			11
+		],
+		"generate": 1,
+		"graduate": "2019年3月31日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "伊藤かりん",
+		"birthday": "1993年5月26日",
+		"home": "神奈川県",
+		"bloodType": "O",
+		"height": 153,
+		"kakusu": [
+			6,
+			18,
+			0,
+			0,
+			0
+		],
+		"generate": 2,
+		"graduate": "2019年5月24日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "斉藤優里",
+		"birthday": "1993年7月20日",
+		"home": "東京都",
+		"bloodType": "O",
+		"height": 157,
+		"kakusu": [
+			8,
+			18,
+			17,
+			7
+		],
+		"generate": 1,
+		"graduate": "2019年6月30日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "桜井玲香",
+		"birthday": "1994年5月16日",
+		"home": "神奈川県",
+		"bloodType": "A",
+		"height": 155,
+		"kakusu": [
+			10,
+			4,
+			9,
+			9
+		],
+		"generate": 1,
+		"graduate": "2019年9月1日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "佐々木琴子",
+		"birthday": "1998年8月28日",
+		"home": "埼玉県",
+		"bloodType": "A",
+		"height": 163,
+		"kakusu": [
+			7,
+			3,
+			4,
+			13,
+			3
+		],
+		"generate": 2,
+		"graduate": "2020年3月31日",
+		"firstNameLen": 2
+	},
+	{
+		"name": "井上小百合",
+		"birthday": "1994年12月14日",
+		"home": "埼玉県",
+		"bloodType": "B",
+		"height": 156,
+		"kakusu": [
+			4,
+			3,
+			3,
+			6,
+			6
+		],
+		"generate": 1,
+		"graduate": "2020年4月27日",
+		"firstNameLen": 2
+	}
+]
