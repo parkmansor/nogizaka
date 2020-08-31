@@ -44,33 +44,6 @@ export class NogiTvComponent implements OnInit {
   { 
   }
 
-/*  private accessKeyId = 'AKIAQU3GGBAZXREYHCXN'; // IAMユーザの認証情報の「アクセスキーID」から確認できます。
-  private secretAccessKey = 'TKUN0wYluTfalwkjBZSyMW1FgRkMvK9/24lNyXuK'; // IAMユーザのシークレットアクセスキー。アクセスキーを作ったときだけ見れるやつです。
-  private bucketName = 'http://parkmansor.com/'; // 保存先のバケット名
-  
-  private bucket = new S3({
-    accessKeyId: this.accessKeyId,
-    secretAccessKey: this.secretAccessKey,
-    region: 'ap-northeast-1',
-  })
-  private param: S3.Types.PutObjectRequest = {
-    Bucket: this.bucketName,
-    Key: 'test.txt', // ファイル絶対パス
-    Body: 'hello!', // ファイルの内容
-    ACL: 'public-read', // インターネットから誰でもダウンロードできるように
-    ContentType: 'text/plain',
-  }
-
-  private uploadS3File(body: any): void {
-    this.bucket.upload(this.param, (err: Error, data: S3.ManagedUpload.SendData) => {
-      if (err) {
-        console.error(err)
-      } else {
-        console.log('Successfully uploaded file.', data)
-      }
-    })
-  }*/
-
   // ファイル保存
   private saveBackUpFile(body: any): void {
     this.http.post(this.backUpFilePath, body, this.httpOptions).
