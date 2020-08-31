@@ -1,37 +1,35 @@
 <div class="container">
-  <h3 class="mb-3 display-4">{{todayDate}}</h3>
+  <h3 class="mb-3 display-4">INTORODUCTION</h3>
   <br>
 
+  <!-- 誕生日 -->
   <div class="card-columns">
-    <!-- 天気 -->
-    <div class="card border-primary mb-3" style="max-width: 30rem;">
-      <div class="card-header">Today Wether</div>
-      <div class="card-body text-Secondary">
-        <p class="card-text">晴れ</p>
-       </div>
-    </div>
-
-    <!-- 誕生日 -->
-    <div class="card border-warning mb-3" style="max-width: 30rem;">
-        <div class="card-header">Happy Birthday!</div>
-        <div class="card-body text-Secondary ">
-        <p class="card-text">
-          <ul *ngFor="let memberOne of birthDayMemberName">
-            <li><a href="https://48pedia.org/{{memberOne[0]}}">{{memberOne[0]}}</a>：{{memberOne[1]}}才</li> 
-          </ul>
-      </div>
-    </div>
-
-    <!-- イベント -->
-    <div class="card border-Secondary mb-3" style="max-width: 30rem;">
-      <div class="card-header">Onther Event</div>
-      <div class="card-body text-Secondary ">
-        <div class="card-body text-Secondary">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-         </div>
-      </div>
+    <ul *ngFor="let memberOne of todayBirthDayMemberName">
+      <app-member-card [memberName]="memberOne[0]" [isPrimary]="true"></app-member-card>
+    </ul>
   </div>
 
+  <!-- 誕生日 -->
+  <div class="card-columns">
+    <ul *ngFor="let memberOne of nearBirthDayMemberName">
+      <app-member-card [memberName]="memberOne[0]" [isPrimary]="false"></app-member-card>
+    </ul>
+  </div>
+
+    <!-- 天気 -->
+    <div class="card-columns">
+      <ul *ngFor="let weatherOne of weatherInfoList">
+      <div class="card border-warning mb-3" style="max-width: 30rem;">
+        <div class="card-header">{{weatherOne.name}}</div>
+        <div class="card-body text-Secondary">
+          <div class="card-body text-Secondary ">
+            <p class="card-text">天気：{{weatherOne.desc}}</p>
+            <p class="card-text">気温：{{weatherOne.templature}}℃</p>
+            <p class="card-text">湿度：{{weatherOne.humidity}}％</p>
+          </div>
+        </div>
+      </div>
+    </ul>
   </div>
 </div>
   

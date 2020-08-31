@@ -11,6 +11,8 @@ import { LinkComponent } from './link/link.component';
 import { NogiUranaiComponent } from './nogi-uranai/nogi-uranai.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { IntroComponent } from './intro/intro.component';
+import { RequiredTextComponent } from './required-text/required-text.component';
+import { MemberCardComponent } from './member-card/member-card.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +22,8 @@ import { IntroComponent } from './intro/intro.component';
     LinkComponent,
     NogiUranaiComponent,
     IntroComponent,
+    RequiredTextComponent,
+    MemberCardComponent,
   ],
   imports: [
     BrowserModule,

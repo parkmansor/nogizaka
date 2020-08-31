@@ -2,7 +2,7 @@ export interface NogiMemberInfo {
   name: string;
   birthday: string
   home: string
-  bloodType: 'A' | 'O' | 'B' | 'AB' | 'U'
+  bloodType: 'A' | 'O' | 'B' | 'AB' | 'U' | '不明'
   height: number
   generate: number
   graduate: string

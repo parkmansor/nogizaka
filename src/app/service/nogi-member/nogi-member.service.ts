@@ -1,9 +1,8 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { NogiMemberInfo, NogiMemberScore } from './nogi-member'
-import { stringify } from '@angular/compiler/src/util';
-import { Observable, from } from 'rxjs';
-import { catchError, map, tap } from 'rxjs/operators';
+import { tap } from 'rxjs/operators';
+import { UranaiLibService } from '../uranaiLib/uranai-lib.service'
 
 @Injectable({
   providedIn: 'root'
@@ -53,12 +52,13 @@ export class NogiMemberService {
         this.isSetupFin = true
         console.log(`メンバ情報取得[${urlFormat}]`)
       })
-    ).subscribe()
+    ).subscribe();
   }
  
   // コンストラクタ
   constructor(
-    private http: HttpClient 
+    private http: HttpClient,
+    private uranalLib: UranaiLibService,
   ) 
   { 
     this.isSetupFin = false
@@ -73,24 +73,34 @@ export class NogiMemberService {
     return this.isSetupFin
   }
 
+  private getMemberAge(date: Date, birthday: string): number {
+    return date.getFullYear() - Number(birthday.substr(0, 4))
+  }
+
   // 誕生日のメンバ名を取得
-  public GetBirthdayMember(date : Date): [string, number][] {
-    let month_str = (1 + date.getMonth()).toString();
-    let day_str = date.getDate().toString();
-    let dateStr = month_str + "月" + day_str + "日"
+  public GetMemberBirthdayRange(startDay: number, endDay: number): [string, number][] {
     let ret : [string, number][] = []
-    for (let one of this.memberArray) {
-      let withoutYear = one.birthday.substr(5) 
-      if (withoutYear == dateStr) {
-        let age = date.getFullYear() - Number(one.birthday.substr(0, 4))
-        ret.push([one.name, age])
+    for (let passDay = startDay; passDay <= endDay; passDay++) {
+      let date : Date = new Date();
+      
+      date.setDate(date.getDate() + passDay)
+      let month_str = (1 + date.getMonth()).toString();
+      let day_str = date.getDate().toString();
+      let dateStr = month_str + "月" + day_str + "日"
+      for (let one of this.memberArray) {
+        if (one.graduate.length != 0) continue;
+        let withoutYear = one.birthday.substr(5) 
+        if (withoutYear == dateStr) {
+          let age = this.getMemberAge(date, one.birthday)
+          ret.push([one.name, age])
+        }
       }
     }
     return ret
   }
 
   // メンバの情報を取得
-  public serchMemnber(name: string) : NogiMemberInfo | null {
+  public SerchMemnber(name: string) : NogiMemberInfo | null {
     let ret : NogiMemberInfo = null
     for (let memberOne of this.memberMap) {
       if (name.indexOf(memberOne[0]) != -1) {
@@ -101,6 +111,27 @@ export class NogiMemberService {
     return ret
   }
 
+  // メンバの年齢を取得
+  public GetMemberAge(name: string) : number {
+    let ret = this.SerchMemnber(name);
+    if (ret != null) return this.getMemberAge(new Date(), ret.birthday)
+    return -1
+  }
+
+  // メンバの誕生日を取得
+  public GetMemberBirthdayFromName(name: string) : string {
+    let ret = this.SerchMemnber(name);
+    if (ret != null) return ret.birthday
+    return "Not found"
+  }
+
+  // メンバの星座を取得
+  public GetMemberSeiza(name: string) : string {
+    let ret = this.SerchMemnber(name);
+    if (ret != null) return this.getMemberSeiza(ret.birthday)
+    return "Not found"
+  }
+  
   // メンバ名を抽出
   public extractMemnberName(name: string) : string[] {
     let ret : string[] = []
@@ -131,42 +162,60 @@ export class NogiMemberService {
   }
 
   // 血液型のスコアを取得
-  private getBloodScore(blood1: string, blood2: string): number {
+  private getBloodScore(srcBlood: string, dstBlood: string): number {
     let score
-    if (blood1 == null || blood2 == null) {
-      score = 5
-    } else {
-      if (blood1 == blood2) {
-        score = 10
-      } else if (blood1 == 'U' || blood2 == 'U') {
-        score = 5
-      } else {
-        score = 0
-      }
+
+    if (srcBlood == null || srcBlood == 'U') {
+      return 0
     }
+    
+    if (srcBlood == dstBlood) {
+      score = 2
+    } else {
+      score = 0
+    }
+
     return score
   }
 
+  // 誕生日を抽出
+  private extactBirthdayNumber(birthdayStr: string) : [number, number, number] {
+    birthdayStr = birthdayStr.replace('年', '-')
+    birthdayStr = birthdayStr.replace('月', '-')
+    birthdayStr = birthdayStr.replace('日', '')
+    let year  = birthdayStr.substr(0, 4)
+    let month = birthdayStr[6] == '-' ? birthdayStr.substr(5, 1) :  birthdayStr.substr(5, 2)
+    let day   = birthdayStr[6] == '-' ? birthdayStr.substr(7, 2) :  birthdayStr.substr(8, 2)
+    return [Number(year), Number(month), Number(day)]
+  }
+
+  // 星座を取得
+  public getMemberSeiza(birthday : string) {
+    let [year, month, day] = this.extactBirthdayNumber(birthday)
+    return this.uranalLib.GetSeizaNameJpn(month, day);
+  }
+ 
   // スコア順にならんだ名前を取得する
-  public GetMemnberScore(srcKakusu: number, srcBlood: string, srcBirthDay: string, maxMemberNum: number) : NogiMemberScore[] {
-    let scoreMap : Map<string, {kakusuu: number, srcBlood: string, birthday: string}>
-    let scoreArray : NogiMemberScore[] = []
+  public GetMemnberScore(nameLen1st: number, nameKakusu: number[], srcBlood: string, srcBirthDay: string, maxMemberNum: number) : NogiMemberScore[] {
     
-    for (let memberOne of this.memberMap) {
-      let dstKakusu = 0
-      let infoBody = memberOne[1]
-      if (infoBody.graduate.length != 0) continue
+    // 星座取得
+    let srcSeiza = this.getMemberSeiza(srcBirthDay);
+    let scoreArray : NogiMemberScore[] = []
 
-      if (0 < srcKakusu) {
-        dstKakusu = 10 - Math.abs(infoBody.kakusu[0] % 10 - srcKakusu % 10)
+    // 名前相性が良いものだけ
+    // 血液型と星座が一致するのものだけ
+    for (let memberOne of this.memberArray) {
+      if (memberOne.graduate.length != 0) continue;
+      let score = this.getBloodScore(srcBlood, memberOne.bloodType);
+      let memSeiza = this.getMemberSeiza(memberOne.birthday);
+      if (memSeiza == srcSeiza) {
+        score += 3
       }
-      let dstBlood = this.getBloodScore(srcBlood, infoBody.bloodType)
-      let dstBirthday = 0
-      let totalScore = dstKakusu + dstBlood + dstBirthday
 
-      totalScore = Math.floor(Math.random() * 10000000) % 100 // 仮
-      scoreArray.push({score: totalScore, name: memberOne[0]})
+      score += this.uranalLib.GetNameMatching(nameLen1st, nameKakusu, memberOne.firstNameLen, memberOne.kakusu)
+      scoreArray.push({score: score, name: memberOne.name})
     }
+
     scoreArray.sort((a, b) => b.score - a.score)
     return scoreArray.filter((val, idx) => (idx < maxMemberNum));
   }

@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { timeInterval } from 'rxjs/operators';
 
 @Component({
   selector: 'app-root',
@@ -8,5 +9,11 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-  title = 'nogizaka';
+  nowTime = new Date()
+
+  constructor() {
+    let id = setInterval(() => {
+      this.nowTime = new Date()
+    }, 1000)
+  }
 }

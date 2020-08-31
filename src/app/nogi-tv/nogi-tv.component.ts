@@ -4,8 +4,10 @@ import { Observable, of, generate } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
 import { TvInfo } from './tv-info';
 import { NogiTvService } from './nogi-tv.service';
-import { NogiMemberInfo } from '../service/nogi-member/nogi-member'
-import { NogiMemberService } from '../service/nogi-member/nogi-member.service'
+import { NogiMemberInfo } from '../service/nogi-member/nogi-member';
+import { NogiMemberService } from '../service/nogi-member/nogi-member.service';
+import { async } from 'rxjs/internal/scheduler/async';
+import { MyLibService } from '../service/mylib/my-lib.service';
 
 @Component({
   selector: 'app-nogi-tv',
@@ -14,7 +16,7 @@ import { NogiMemberService } from '../service/nogi-member/nogi-member.service'
 })
 
 export class NogiTvComponent implements OnInit {
-  private backUpFilePath = `assets/test2.json`
+  private backUpFilePath = `assets/test1.json`
   httpOptions = {
     headers: new HttpHeaders({ 
       'Content-Type': 'application/json'
@@ -36,13 +38,42 @@ export class NogiTvComponent implements OnInit {
   constructor(
     private nogiTv: NogiTvService,
     private nogiMemnber: NogiMemberService,
-    private http: HttpClient
+    private http: HttpClient,
+    private myLib: MyLibService,
   )
-  { }
+  { 
+  }
+
+/*  private accessKeyId = 'AKIAQU3GGBAZXREYHCXN'; // IAMユーザの認証情報の「アクセスキーID」から確認できます。
+  private secretAccessKey = 'TKUN0wYluTfalwkjBZSyMW1FgRkMvK9/24lNyXuK'; // IAMユーザのシークレットアクセスキー。アクセスキーを作ったときだけ見れるやつです。
+  private bucketName = 'http://parkmansor.com/'; // 保存先のバケット名
+  
+  private bucket = new S3({
+    accessKeyId: this.accessKeyId,
+    secretAccessKey: this.secretAccessKey,
+    region: 'ap-northeast-1',
+  })
+  private param: S3.Types.PutObjectRequest = {
+    Bucket: this.bucketName,
+    Key: 'test.txt', // ファイル絶対パス
+    Body: 'hello!', // ファイルの内容
+    ACL: 'public-read', // インターネットから誰でもダウンロードできるように
+    ContentType: 'text/plain',
+  }
+
+  private uploadS3File(body: any): void {
+    this.bucket.upload(this.param, (err: Error, data: S3.ManagedUpload.SendData) => {
+      if (err) {
+        console.error(err)
+      } else {
+        console.log('Successfully uploaded file.', data)
+      }
+    })
+  }*/
 
   // ファイル保存
   private saveBackUpFile(body: any): void {
-    this.http.put(this.backUpFilePath, body, this.httpOptions).
+    this.http.post(this.backUpFilePath, body, this.httpOptions).
       pipe(
         tap((res: any) => {
           debugger;
@@ -52,24 +83,22 @@ export class NogiTvComponent implements OnInit {
       .subscribe();
   }
 
+  // 情報の初期化
+  private async setupWait() {
+    for (let i = 0; i < 1000; i++) {
+      if (this.nogiTv.IsSetupFin()) {
+        //this.uploadS3File("abc")
+        this.saveBackUpFile("abc")
+        this.tvInfoBody = this.nogiTv.GetTvInfoBody()
+        break
+      }
+      await this.myLib.BusyWaitTime(10)
+    }
+  }
+
   // 初期化
   ngOnInit(): void {
-    // Httpで情報取得
-    if (this.nogiTv.GetTvInfoBody().length == 0) {
-      this.nogiTv.SetupTvInfoEntry()
-      .subscribe(
-        res => {
-          console.log(`初回取得成功`)
-          this.tvInfoBody = this.nogiTv.GetTvInfoBody()
-          // this.saveBackUpFile(res)
-        },
-        error => {
-          console.error(`初回取得失敗[${error}]`)
-        }
-      )
-    } else {
-      this.tvInfoBody = this.nogiTv.GetTvInfoBody()
-    }
+    this.setupWait()
   }
 
   // メンバー選択のチェックボックス

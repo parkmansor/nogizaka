@@ -1,10 +1,9 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable, of, merge, forkJoin } from 'rxjs';
-import { catchError, map, tap } from 'rxjs/operators';
 import { TvInfo } from './tv-info';
-import { NogiMemberInfo } from '../service/nogi-member/nogi-member'
 import { NogiMemberService } from '../service/nogi-member/nogi-member.service'
+import { MyLibService } from '../service/mylib/my-lib.service'
 
 @Injectable({
   providedIn: 'root'
@@ -12,29 +11,23 @@ import { NogiMemberService } from '../service/nogi-member/nogi-member.service'
 export class NogiTvService {
   private apiKey = `BqUdXrklFeqSi8PJIowkyCa1CKFFZ1Sg`
   private area = '270'
-  private targetActName = '乃木坂'
   private dateFormat = `YYYY-MM-DD`
   private urlFormat = `https://api.nhk.or.jp/v2/pg/list/${this.area}/tv/${this.dateFormat}.json?key=${this.apiKey}`
 //  private urlFormat = `assets/test-${this.dateFormat}.json`
+  private isSetupFin = false
   private oneWeekDay = 5
-  httpOptions = {
-    headers: new HttpHeaders({ 
-      'Content-Type': 'text/plain',
-//      'Content-Type': 'application/json'
-//      'Access-Control-Allow-Origin': '*',
-//      'Access-Control-Allow-Credentials': 'true',
-//      'Cross-Origin-Resource-Policy': 'same-site | same-origin | cross-origin'
-    }),
-  };
 
   tvInfoBody: TvInfo[] = []
 
   // コンストラクタ
   constructor(
     private http: HttpClient, 
-    private nogiMemnber: NogiMemberService
+    private nogiMemnber: NogiMemberService,
+    private myLib: MyLibService,
     )
-    { }
+    {
+      this.setupTvInfoEntry()
+    }
 
   // URLの文字列生成
   private getUrl(index : number) : string {
@@ -54,15 +47,6 @@ export class NogiTvService {
     res = res.replace(/DD/g, day_str);
     
     return res
-  }
-
-  // エラー通知
-  private handleError<T>(operation = `operation`, result?: T) {
-    return (error: any): Observable<T> => {
-      console.error(error);
-      console.error(`${operation} failed: ${error.message}`);
-      return of(result as T);
-    }
   }
 
   // JSONの時刻を表示用の文字列に変換
@@ -87,7 +71,7 @@ export class NogiTvService {
   private getTvInfoChannelOne(prgAll: any) : void {
     let prgPart = prgAll.filter((elm : any) => {
       let actName: string = elm.act
-      return (actName.indexOf(this.targetActName) != -1) || this.nogiMemnber.serchMemnber(actName) != null
+      return (this.nogiMemnber.SerchMemnber(actName) != null)
     })
 
     for (let prgOne of prgPart) {
@@ -112,23 +96,28 @@ export class NogiTvService {
   }
 
   // 番組情報作成を作成する
-  public SetupTvInfoEntry() : Observable<any> {
-    let objAll :Observable<any>[] = []
-    for (let cnt = 0; cnt < this.oneWeekDay; cnt++) {
-      let targetUrl = this.getUrl(cnt)
-      let objOne = this.http.get(targetUrl, this.httpOptions).pipe(
-        tap((res) => {
-          this.setupTvInfoSub(res)
-          console.log(`HTTP成功[${targetUrl}]`)
-        }),
-        catchError(this.handleError(`HTTP失敗[${targetUrl}]`))
-      )
-      objAll.push(objOne)
-    }
-    let retVal = forkJoin(objAll)
-    return retVal;
+  private setupTvInfoEntry() : void {
+    let retVal = this.myLib.HttpGetApiMutliJoin(this.oneWeekDay, (cnt) => {
+      return this.getUrl(cnt)
+    })
+
+    retVal.subscribe( res => {
+      this.isSetupFin = true
+      for (let one of res) {
+        this.setupTvInfoSub(one)
+      }
+      //console.log(`初回取得成功`)
+    },
+    error => {
+      console.error(`初回取得失敗[${error}]`)
+    })
   }
 
+  // セットアップすみか
+  public IsSetupFin() : boolean {
+    return this.isSetupFin;
+  }
+ 
   // テレビ情報実体取得
   public GetTvInfoBody(): TvInfo[] {
     return this.tvInfoBody

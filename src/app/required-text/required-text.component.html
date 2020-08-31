@@ -1,0 +1,5 @@
+<div class="form-group col-sm-5">
+  <label for="text">{{inputName}}</label>
+  <input #txt type="text" [class]="textClass" id="text" placeholder={{inputName}} (input)="textInput(txt.value)"/>
+  <div [class]="msgClass">{{msgBody}}</div>
+</div>

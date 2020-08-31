@@ -1,0 +1,23 @@
+ 
+<!-- 誕生日 -->
+<div class={{cardBorderClass}} style="max-width: 30rem;">
+  <div class="card-header">
+    <a href="https://48pedia.org/{{memberName}}" class="card-link">{{memberName}}　</a>
+    <span class="badge badge-pill badge-primary">{{memberInfo.generate}}期生</span>
+  </div>
+  <div class={{cardBodyClass}}>
+    <p class="card-text">生年月日：{{memberInfo.birthday}}</p>
+    <p class="card-text">血液型：{{memberInfo.bloodType}}</p>
+    <p class="card-text">身長　：{{memberInfo.height}}cm</p>
+    <div *ngIf="isPrimary">
+      <p class="card-text">星座　：{{memberSeiza}}</p>
+      <p class="card-text">年齢　：{{memberAge}}才</p>
+      <p class="card-text">出身　：{{memberInfo.home}}</p>
+    </div>
+    <!-- 
+    <div class="card-body">
+      <a href="https://48pedia.org/{{memberName}}" class={{btnClass}}>Go More info</a>
+    </div>
+    -->
+  </div>
+</div>
